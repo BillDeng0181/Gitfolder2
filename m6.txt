@@ -4,5 +4,3 @@ just type something
 
 
 append something
-
-add a line in m6
